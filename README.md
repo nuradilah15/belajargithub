@@ -1,2 +1,2 @@
 # belajargithub
-kita akan mempelajari cara penggunaan github
+kita alkan mempelajari cara penggunaan github
