@@ -1,2 +1,2 @@
 # belajargithub
-hello word kerja
+kita alkan mempelajari cara penggunaan github
